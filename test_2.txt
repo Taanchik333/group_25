@@ -2,3 +2,4 @@
 <name>Tanya</name>
 <Age>33</age>
 <sity>Minsk</sity>
+<status>m</status>
